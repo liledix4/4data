@@ -1,0 +1,6 @@
+{
+    "$schema": "./4.schema.json",
+    "load": [
+        "2025/"
+    ]
+}

@@ -1,2 +1,3 @@
 # 4data
-Data 4 blog.
+
+Data for the [blogging app “4”](https://liledix4.github.io/4).

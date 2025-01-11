@@ -1,0 +1,13 @@
+{
+    "$schema": "../../4.schema.json",
+    "load": [
+        "11"
+    ],
+    "posts": [
+        {
+            "text": "Hello World!",
+            "date": "2025-01-11",
+            "longread": "/md/hello_world"
+        }
+    ]
+}
